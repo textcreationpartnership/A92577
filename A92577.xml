@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from the Parliament of Scotland, to the Parliament of England, assembled at Westminster: concerning the advance of the English Army, and their pleading of the Covenant, and the articles of pacification. Brought by Col. Grey, formerly a member of the late Lord Generall Fairfax's army. Also, their further proceedings, touching the new levy of 12000 foot, and 4000 horse; their sending of ordnance, arms, and ammunition to St. Johnstons, and their resolution in case the English Army advanceth over Tweed. Likewise, the arrivall of their declared king, at the Holy-Island, and the preparation that they have made for the receiving of his person. Together, with the dangerous declaration of the Ulster Army in Ireland, against the Parliament of England, and their resolution in order thereunto.</title>
+            <author>Scotland. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92577</idno><idno type="EEBO-CITATION">99863564</idno>
+  <idno type="VID">165688</idno>
+  <idno type="EEBO-PROQUEST">2240894938</idno>
+  
+            <idno type="STC">Wing S1286</idno>
+            <idno type="STC">Thomason E607_19</idno>
+            <idno type="STC">ESTC R203718</idno>
+            <idno type="PROQUEST">99863564</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99863564e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92577)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165688)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 93:E607[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from the Parliament of Scotland, to the Parliament of England, assembled at Westminster: concerning the advance of the English Army, and their pleading of the Covenant, and the articles of pacification. Brought by Col. Grey, formerly a member of the late Lord Generall Fairfax's army. Also, their further proceedings, touching the new levy of 12000 foot, and 4000 horse; their sending of ordnance, arms, and ammunition to St. Johnstons, and their resolution in case the English Army advanceth over Tweed. Likewise, the arrivall of their declared king, at the Holy-Island, and the preparation that they have made for the receiving of his person. Together, with the dangerous declaration of the Ulster Army in Ireland, against the Parliament of England, and their resolution in order thereunto.</title>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G.H.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July. 18".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term type="topical_term">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165688:1"/>
+            <p>A Letter from the PARLIAMENT of SCOTLAND, TO THE PARLIAMENT of ENGLAND, <hi>ASSEMBLED AT</hi> WESTMINSTER: CONCERNING The advance of the English Army, and their pleading of the <hi>Covenant,</hi> and the <hi>Articles</hi> of pacification.</p>
+            <p>Brought by Col. Grey, formerly a Member of the late Lord Generall <hi>Fairfax's</hi> Army.</p>
+            <p>ALSO, Their further Proceedings, touching the new Levy of 12000 Foot, and 4000 Horse; their sending of <hi>Ordnance, Arms,</hi> and <hi>Ammunition</hi> to St. <hi>Johnstons,</hi> and their <hi>Resolution</hi> in case the <hi>English</hi> Army advan<g ref="char:EOLhyphen"/>ceth over <hi>Tweed.</hi>
+            </p>
+            <p>Likewise, the arrivall of their <hi>Declared King,</hi> at the <hi>Holy-Island,</hi> and the preparation that they have made for the receiving of his Person.</p>
+            <p>
+               <hi>TOGETHER,</hi> With the dangerous <hi>Declaration</hi> of the <hi>Ʋlster</hi> Army in <hi>Ireland,</hi> against the <hi>Parliament</hi> of <hi>England,</hi> and their <hi>Resolution</hi> in Order thereunto.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>G. H.</hi> 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:165688:2"/>
+            <pb n="1" facs="tcp:165688:2"/>
+            <head>A Letter sent from the Parliament of Scotland, to the Parliament of England, assembled at West<g ref="char:EOLhyphen"/>minster.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He <hi>Ʋlster</hi> forces grow resolute, and endeavour to embody, and have lately faln upon some of our men, as they were marching to their Colours, having (by sickness and the like) been retarded from their former march; they have summoned in all that are able to bear arms, and have set forth a Declaration, wherein they unanimously resolve to advance their Kings service, with the loss of lives, estates, and fortunes; a Copy whereof I have sent you enclosed: Yet notwithstanding all their combinations and confederacies, our men are resol<g ref="char:EOLhyphen"/>ved to fight them; but that which strikes the greatest astonishment, is, the raging of the pestilence in these parts, which sweepeth whole families away, and lea<g ref="char:EOLhyphen"/>veth many Towns almost unpeopled, the like mor<g ref="char:EOLhyphen"/>tality was never known in <hi>Ireland,</hi> nor I think ever
+<pb n="2" facs="tcp:165688:3"/>heard of in <hi>England:</hi> The Lord is now pleased to lay his hand of affliction upon us, having visited our Camp with this terrible and grievous sickness, espe<g ref="char:EOLhyphen"/>cially in the City of <hi>Dublin,</hi> where they now die 200. a week, and spreads daily: It hath been very vehe<g ref="char:EOLhyphen"/>ment in the <hi>Irish</hi> Quarters; from whence we hear, that many thousands have lately perished.</p>
+            <closer>
+               <dateline>
+                  <hi>Cork,</hi>
+                  <date>
+                     <hi>June</hi> 24. 1650.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="text">
+            <head>The Declaration of the Nobility, Gentry, and Commanders of his Majesties Forces of the Province of <hi>Ulster.</hi>
+            </head>
+            <p>WHereas we are given to understand, that some ill-affected Members for private respects of their own, and malice to our party, have endeavoured to sow sedition and discord betwixt us and such as are well-affected to his <hi>Majesty,</hi> both of the <hi>Scottish</hi> Nati<g ref="char:EOLhyphen"/>on and others, alluring many of them from time to time, to harbor very prejudicious and jealous thoughts of our proceedings, by casting the Calum<g ref="char:EOLhyphen"/>nies and aspersions on us, that our intentions and actions tend rather to our own particular ends and private gain, than to the advancement and preserva<g ref="char:EOLhyphen"/>tion of His Sacred Majesties Interest, Crown and Dig<g ref="char:EOLhyphen"/>nity in this Land; Which evill practice can produce nothing but sad, destructive, and lamentable effects, as it is two wel known already by woful experience; for it is most palpably evident, that the like unhappy misconstruction enforced the <hi>Scots</hi> at first to rise in Arms, and invade <hi>England</hi> against his <hi>Majesty,</hi> their own flesh, and blood, that occasioned the falling out
+<pb n="3" facs="tcp:165688:3"/>of the <hi>Irish</hi> and <hi>Scots</hi> in the beginning of these Wars; the occasion whereof, was only and solely the cause of the beheading His <hi>Majesty</hi> of happy memory, all these mischiefs being perpetrated by the practice and policy of the Up-starts of <hi>England,</hi> that this day tramples under-foot in misery, thraldom and slavery, the <hi>Nobility</hi> and <hi>Gentry</hi> of <hi>England,</hi> by raising and ex<g ref="char:EOLhyphen"/>alting the basest abortive scums of that <hi>Kingdom,</hi> to the greatest height of Honour, Power and Command, that allured the <hi>Scots</hi> hitherto to endanger their lives, endeavors and fortunes, first in <hi>England</hi> as aforesaid, and secondly in this Kingdom against our Nation, when we little suspected ever any such sedition, or quarrel could be fomented betwixt us and them, or that they having once in their hands all the Forts and Garrisons in this Province (excepting a few) should be so far deceived by the sinister practice of the <hi>Parl.</hi> of <hi>England,</hi> as that they have not at present the Com<g ref="char:EOLhyphen"/>mand of any of them in all <hi>Ʋlster,</hi> so as consequently it is to be feared none of the <hi>Scots</hi> will be suffered, ei<g ref="char:EOLhyphen"/>ther <hi>Gentry</hi> or <hi>Communalty,</hi> to inhabit in any part of this Province, bordering on their Native Kingdom of <hi>Scotland.</hi>
+            </p>
+            <p>All which we cannot but sadly take to heart, and that the rather, because we see our fellow subjects so mislead, and withdrawn from their obedience to his Majesty, in not siding with us in the present service misconstructed by the evil suggestions of others, our endeavours and intentions, which might sufficiently give occasion of discouragement, where their commu<g ref="char:EOLhyphen"/>nity and assistance in the prosecution of this War in his Majesties behalf, was unfeignedly expected by
+<pb n="4" facs="tcp:165688:4"/>our Party and Nation, for the cleering and removing of all past mischievous practises of that kinde on our parts, and prevention of any the like jealousie and discord hereafter; We thought it necessary, and do accordingly declare and avow, in the sight of the great God of heaven, and the world, that our intentions and resolutions, are to the last man to endeavour with the loss of our lives, estates, and fortunes, the advancement and preservation of his Majesties ser<g ref="char:EOLhyphen"/>vice and interest in this Kingdom, and of all those whosoever, that prosecute his quarrel, so far forth as we be not troubledled in the free exercise of our Re<g ref="char:EOLhyphen"/>ligion, as we will no way hinder or trouble any per<g ref="char:EOLhyphen"/>son or persons of what Nation or <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uality soever ad<g ref="char:EOLhyphen"/>hering to his Majesty to exercise and embrace his or their own profession or Religion, all which (with Gods assistance) our actions shall ere long ever ex<g ref="char:EOLhyphen"/>presly manifest in the view of the World. Finally, it is our intention, that we shall make no distinction or difference between our selves and so many of the <hi>Scot<g ref="char:EOLhyphen"/>tish</hi> or other Nation whatsoever, that now shall (as we invite them with heart and hand) joyn to his Ma<g ref="char:EOLhyphen"/>jesties service, or any way freely contribute to, or countenance the same, but as becometh Brethren and fellow-Subjects, ingage in one quarrel for their true and lawful King.</p>
+            <closer>
+               <dateline>
+                  <hi>Dated at Charle-mount</hi>
+                  <date>
+                     <hi>May</hi> 20. 1650.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Emerus Clogherensis</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Farral</hi>
+                     </item>
+                     <item>
+                        <hi>J. Loagh</hi>
+                     </item>
+                     <item>
+                        <hi>Inskillin,</hi>
+                     </item>
+                     <item>
+                        <hi>Arthurus Dunmere and Conc.</hi>
+                     </item>
+                     <item>
+                        <hi>Ter O Seal,</hi>
+                     </item>
+                     <item>
+                        <hi>Alex. Mac Donnel</hi>
+                     </item>
+                     <item>
+                        <hi>Shane. O Cahane</hi>
+                     </item>
+                     <item>
+                        <hi>Hugh Maguire</hi>
+                     </item>
+                     <item>
+                        <hi>Tur. Boyle</hi>
+                     </item>
+                     <item>
+                        <hi>Brian O Neale.</hi>
+                     </item>
+                     <pb n="5" facs="tcp:165688:4"/>
+                     <item>
+                        <hi>Miles Swine,</hi>
+                     </item>
+                     <item>
+                        <hi>Hugh Mac Mahone</hi>
+                     </item>
+                     <item>
+                        <hi>Cormack Mahallen</hi>
+                     </item>
+                     <item>
+                        <hi>Cullo O Donnel</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Mac Donnel</hi>
+                     </item>
+                     <item>
+                        <hi>Jeron: Mac Donnel.</hi>
+                     </item>
+                     <item>
+                        <hi>Owen O Dougherty,</hi>
+                     </item>
+                     <item>
+                        <hi>Turl. O Quin</hi>
+                     </item>
+                     <item>
+                        <hi>Brian O Neale</hi>
+                     </item>
+                     <item>
+                        <hi>Ter. O Boyle</hi>
+                     </item>
+                     <item>
+                        <hi>Brian Mac Mahone.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="text">
+            <head>An Abstract of a Letter from <hi>Scotland.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THe Parl. of <hi>Scotland</hi> having ordered, that the Pallace of <hi>Hallyrad</hi> should be made ready for the creation of their <hi>King,</hi> have now intermit<g ref="char:EOLhyphen"/>ted it, conceiving that the <hi>Northern</hi> Castles, and the advantagious passages in that Climate, will be a bet<g ref="char:EOLhyphen"/>ter security for his person, against the <hi>English</hi> Army: But many suppose, that they begin to change and de<g ref="char:EOLhyphen"/>viate from their former principles, fearing he will be no obedient sonne to the Kirk, or that he will not forget how they used his wel-beloved Cosen and Counsellor, <hi>Generalissimo Montross,</hi> and therefore cold wish he might lose his way, and aime any where, ra<g ref="char:EOLhyphen"/>ther then in <hi>Scotland.</hi> And perhaps they may think it needless, to proceed any further in preparation; be<g ref="char:EOLhyphen"/>cause they may think that he, or some about him, may have jealousie enough, to suspect that which they know to be true; <hi>That it is not safe for him to trust his person with them, and that they mean to serve their turns of him, if he will not serve all their turns.</hi> We hear that the <hi>Dutch</hi> Ships that were appointed for his Convoy, stand very firm and true, and that upon the 16. in<g ref="char:EOLhyphen"/>stant, arived at the <hi>Holy-Island,</hi> upon the River of <hi>Elbo,</hi> near the Confines of <hi>Denmark.</hi> There is a great divi<g ref="char:EOLhyphen"/>sion between the <hi>Lords</hi> in that part, and the <hi>Barons</hi>
+               <pb n="6" facs="tcp:165688:5"/>and <hi>Burgesses</hi> there; the <hi>Lords</hi> would have a further Levy of an Army for their defence, and the <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arons</hi> would have their present Army to be (yet) better purged from <hi>Malignants</hi> and <hi>Sectaries:</hi> which debate occasioned a great Conference on the 18. of <hi>June</hi> last, divers of the <hi>Nobility</hi> and <hi>Clergy,</hi> voting for a new Levy of 12000 Foot, and 4000 Horse, to be presently listed and brought to a Randevouz, and then to return to their own dwellings; to the end, that they might be raised upon any small warning, for any service. The Contest in <hi>Parl.</hi> seemes to be very high, and there is great talk of purging the House: Great store of Pro<g ref="char:EOLhyphen"/>vision, Ordnance, Arms and Ammunition, is already sent to <hi>Strineving</hi> Castle, and to St. <hi>Johnstons,</hi> two pla<g ref="char:EOLhyphen"/>ces very considerable, and of great strength, where the <hi>Parl.</hi> of <hi>Scotland</hi> intends to take Sanctuary, if the <hi>Eng<g ref="char:EOLhyphen"/>lish</hi> Army allarms them at <hi>Edenburgh.</hi> The <hi>Par.</hi> of <hi>Scotland</hi> hath sent a Letter to the <hi>Parl.</hi> of <hi>England,</hi> by one Col. <hi>Grey,</hi> (an <hi>Englishman</hi>) directed to the <hi>Right Honourable, William Lenthal</hi> Esquire, <hi>Speaker of the House of Commons:</hi> Wherein they plead the <hi>Covenant,</hi> and <hi>Articles</hi> of passification, <hi>That they should not be inva<g ref="char:EOLhyphen"/>ded under three Moneths warning,</hi> &amp;c. There is great talk that their <hi>Declared King</hi> is landed in the <hi>North</hi> of <hi>Scotland;</hi> but we have not received any Letters to assertain the truth thereof: Of which I shal particu<g ref="char:EOLhyphen"/>larise more by my next,</p>
+            <closer>
+               <salute>Vale.</salute>
+               <dateline>
+                  <hi>Carlisle,</hi>
+                  <date>
+                     <hi>June</hi> 27. 1650.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
